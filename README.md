@@ -25,3 +25,6 @@ Bob = 3, Leer = 4, and Blast = 5
 Initials would be: BLB 
 ### So the end solution would be:
 ## BcLdBe
+
+### Finally
+This program will write the code to a text file.
