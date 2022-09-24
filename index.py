@@ -18,7 +18,7 @@ def main():
         #first name
         f_n = len(f_name)
         f_letter = f_n - 1
-        a = f_name[0]
+        1
 
         #middle name
         m_n = len(m_name)
@@ -35,7 +35,7 @@ def main():
         #y -= 1
 
         #initials
-        f = a
+        f = f_name[0]
         m = m_name[0]
         l = l_name[0]
 
