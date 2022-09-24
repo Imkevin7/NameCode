@@ -18,7 +18,6 @@ def main():
         #first name
         f_n = len(f_name)
         f_letter = f_n - 1
-        1
 
         #middle name
         m_n = len(m_name)
