@@ -1,7 +1,7 @@
 # NameCode
 Change your Name into a six digit code
 
-This program takes three inputs: 
+### This program takes three inputs: 
 - First Name:
 - Middle Name:
 - Last Name:
